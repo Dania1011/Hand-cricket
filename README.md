@@ -1,31 +1,42 @@
-# Hand-cricket
-A simple terminal-based hand cricket game in Python.
+# 🏏 Hand Cricket Game in Python (Jupyter Notebook)
 
-# 🏏 Hand Cricket Game (Python)
-
-This is a simple terminal-based Hand Cricket game built using Python. The game simulates the nostalgic hand cricket we all played during school breaks — now reimagined in code!
+A fun, interactive hand cricket game implemented using Python in a Jupyter Notebook!  
+Inspired by the hand cricket games we used to play during school breaks — now brought to life in code.
 
 ## 🎮 How to Play
 
-- You (the user) and the computer take turns to bat and bowl.
-- Choose a number between **1 to 6**.
-- If your number matches the computer's, you're **OUT**!
-- The player with the highest score wins!
+- You (the player) and the computer take turns batting and bowling.
+- Choose a number between **1 and 6**.
+- If your number matches the computer’s number, you are **OUT**!
+- The player with the highest score wins the match.
 
 ## 💻 Features
 
-- Console-based gameplay
-- Randomized computer moves using Python’s `random` module
-- Real-time scoring and innings system
-- User-friendly input and output flow
+- Fully playable in a Jupyter Notebook
+- Uses Python's `random` module for computer inputs
+- Clear and easy-to-follow game flow
+- Real-time scoring and two innings
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Requirements
 
-- Python 3.x installed
+- Python 3.x
+- Jupyter Notebook installed (or use [Google Colab](https://colab.research.google.com/))
 
-### Run the game
+### How to Run
 
-```bash
-python handcricket.py
+1. Clone or download this repository
+2. Open the `handcricket.ipynb` file in Jupyter Notebook
+3. Run each cell in sequence to start playing the game
+
+
+## 🧠 Concepts Used
+
+- Python functions and classes
+- Loops and conditionals
+- Random number generation using `random.randint()`
+- Basic game logic and user interaction
+
+## 📂 Project Structure
+
